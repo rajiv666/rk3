@@ -1,6 +1,6 @@
 // Your First Program
 
-class hellow raj {
+class rahul{
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
