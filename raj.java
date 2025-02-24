@@ -1,6 +1,6 @@
 // Your First Program
 
-class raj how are you jha{
+class push java{
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
